@@ -1,5 +1,92 @@
 # ACM Computing Surveys
 
+## 2025-09
+
+### 218. Towards a Better Understanding of Evaluating Trustworthiness in AI Systems
+人工智能系统可信度评估的深入探讨
+
+### 219. Data Readiness for AI: A 360-Degree Survey
+面向人工智能的数据就绪性：多维视角综述
+
+### 220. Machine Learning for Identifying Risk in Financial Statements: A Survey
+机器学习在财务报表风险识别中的应用综述
+
+The work herein reviews the scientific literature on Machine Learning approaches for financial risk assessment using financial reports. We identify two prominent use cases that constitute fundamental risk factors for a company, namely misstatement detection and financial distress prediction. We further categorize the related work along four dimensions that can help highlight the peculiarities and challenges of the domain. Specifically, we group the related work based on (a) the input features used by each method, (b) the sources providing the labels of the data, (c) the evaluation approaches used to confirm the validity of the methods, and (d) the machine learning methods themselves. This categorization facilitates a technical overview of risk detection methods, revealing common patterns, methodologies, significant challenges, and opportunities for further research in the field.
+
+本文回顾了利用财务报告进行财务风险评估的机器学习方法相关科学文献。我们确定了构成公司基本风险因素的两个主要用例，即财务报表错误陈述检测和财务困境预测。我们进一步从四个维度对相关研究进行分类，这些维度有助于凸显该领域的特性与挑战。具体而言，我们根据以下方面对相关工作进行分组：(a) 每种方法使用的输入特征，(b) 提供数据标签的来源，(c) 用于验证方法有效性的评估方式，以及 (d) 机器学习方法本身。这种分类有助于对风险检测方法进行技术概述，揭示该领域的常见模式、方法论、重大挑战以及进一步研究的机会。
+
+### 221. On Efficiency, Fairness and Security in AI Accelerator Resource Sharing: A Survey
+AI加速器资源共享中的效率、公平性与安全性：研究综述
+
+### 222. Secure Robotics: Navigating Challenges at the Nexus of Safety, Trust, and Cybersecurity in Cyber-Physical Systems
+安全机器人学：信息物理系统中安全、信任与网络空间安全的交叉挑战与应对
+
+### 223. Vertical Federated Learning for Effectiveness, Security, Applicability: A Survey
+纵向联邦学习的三维视角：有效性、安全性与适用性研究综述
+
+### 224. Alert Fatigue in Security Operations Centres: Research Challenges and Opportunities
+安全运营中心的警报疲劳：研究挑战与未来机遇
+
+A security operations centre (SOC) is a facility where teams of security professionals, supported by advanced
+technologies and processes, work together to monitor, detect, and respond to cybersecurity incidents. With
+advances in AI technology, most of the SOC functions are increasingly becoming AI-driven. Among these,
+real-time alert monitoring and triage is particularly important. Recent studies, by both industry and academia,
+have highlighted the problem of alert fatigue and burnout in SOC. Several solutions have been proposed in
+the literature and by the industry to address this problem. In this article, we review the existing literature and
+industry solutions on alert fatigue mitigation through the lenses of automation, augmentation, and human–AI
+collaboration. Based on the review, we identify four major causes of alert fatigue in SOC. We also examine the
+shortcomings of existing solutions and propose several potential research directions leveraging AI. By providing a comprehensive analysis of the state-of-the-art approaches and their limitations, this study contributes to
+the existing literature in an important field of study. We anticipate that it will inspire new research directions
+for addressing alert fatigue not just in SOCs but across other Command and Control (C2) domains as well.
+
+### 225. A Survey of mmWave Backscatter: Applications, Platforms, and Technologies
+
+毫米波后向散射技术综述：应用场景、平台架构与关键技术
+
+### 226. Personalization in Public Transport Passenger Information Systems: A Systematic Review and Framework
+公共交通乘客信息系统中的个性化：系统综述与框架
+
+### 227. Testbeds and Evaluation Frameworks for Anomaly Detection within Built Environments: A Systematic Review
+建筑环境中异常检测的测试平台与评估框架：系统综述
+
+### 228. Empowering Edge Intelligence: A Comprehensive Survey on On-Device AI Models
+赋能边缘智能：端侧AI模型技术全景与前沿趋势综述
+
+### 229. A Survey of Hardware-Based AES SBoxes: Area, Performance, and Security
+基于硬件的AES S盒技术综述：面积、性能与安全权衡
+
+### 230. The Federation Strikes Back: A Survey of Federated Learning Privacy Attacks, Defenses, Applications, and Policy Landscape
+联邦反击战：联邦学习隐私攻击与防御机制、应用场景及政策生态综述
+
+## 2025-08
+
+### 189. Knowledge Distillation on Graphs: A Survey
+图知识蒸馏：技术前沿与系统综述
+
+### 190. Natural Language Understanding and Inference with MLLM in Visual Question Answering: A Survey
+多模态大语言模型在视觉问答中的自然语言理解与推理研究综述
+
+### 191. Compact Data Structures for Network Telemetry
+网络遥测中的紧凑数据结构：研究综述
+
+### 192. Adversarial Patterns: Building Robust Android Malware Classifiers
+对抗模式：构建鲁棒型安卓恶意软件分类器的技术路径
+
+### 193. Towards Lifelong Learning of Large Language Models: A Survey
+迈向大型语言模型的持续学习：研究综述
+
+### 194. Green Federated Learning: A New Era of Green Aware AI
+绿色联邦学习：绿色意识AI的新时代
+
+### 195. Blockchain-Empowered Trustworthy Data Sharing: Fundamentals, Applications, and Challenges
+区块链赋能的可信数据共享：基础理论、应用场景与技术挑战
+
+### 196. A Comprehensive Survey on Big Data Analytics: Characteristics, Tools and Techniques
+大数据分析研究综述：核心特征、工具与技术全景解读
+
+### 197. Making Sense of Big Data in Intelligent Transportation Systems: Current Trends, Challenges and Future Directions
+解析智能交通系统中的大数据：当前趋势、挑战与未来方向
+
 ## 2025-07
 
 ### Secured Network Architectures Based on Blockchain Technologies: A Systematic Review
@@ -13,6 +100,17 @@
 
 ### A Survey on Speech Deepfake Detection
 关于语音深度伪造检测的综述
+
+### 166. Deep Learning Methods for Abstract Visual Reasoning: A Survey on Raven's Progressive Matrices
+用于抽象视觉推理的深度学习方法：关于瑞文渐进矩阵的综述
+
+### 167. A Survey of Multimodal Learning: Methods, Applications, and Future
+多模态学习综述：方法、应用与未来
+
+### 168. A Comprehensive Survey of Benchmarks for Improvement of Software's Non-Functional Properties
+软件非功能属性提升的评测基准全面综述
+
+
 
 ## 2025-06
 
