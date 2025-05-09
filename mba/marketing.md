@@ -211,9 +211,9 @@ Profit and Growth
 
 ### 组织的三层战略
 
-Corporate strategy
-Business unit strategy
-Functional strategy
+- Corporate strategy
+- Business unit strategy
+- Functional strategy
 
 ### 制定组织使命应考虑的首要问题
 
@@ -235,8 +235,8 @@ Functional strategy
 
 ### 两种著名的投资业务组和评估模型
 
-波士顿矩阵：市场成长-份额矩阵 growth-share matrix
-通用电气公司模型：多因素业务经营组合模型
+- 波士顿矩阵：市场成长-份额矩阵 growth-share matrix
+- 通用电气公司模型：多因素业务经营组合模型
 
 ### 战略计划缺口
 
@@ -264,11 +264,11 @@ Functional strategy
 
 ### 营销过程 marketing process
 
-分析营销机会
-研究和选择目标市场
-设计营销战略计划
-营销方案组织
-执行和控制营销努力
+- 分析营销机会
+- 研究和选择目标市场
+- 设计营销战略计划
+- 营销方案组织
+- 执行和控制营销努力
 
 ### 营销计划
 
@@ -323,11 +323,11 @@ Steps in Market Segmentation, Targeting and Positioning
 
 Effective Segmentation
 
-Measurable: Size, purchasing power, profiles of segments can be measured
-Substantial: Segments must be large or profitable enough to serve
-Accessible: Segments can be effectively reached and served
-Differential: Segments must respond differently to different marketing mix elements and actions
-Actionable: Must be able to attract and serve the segments
+- Measurable: Size, purchasing power, profiles of segments can be measured
+- Substantial: Segments must be large or profitable enough to serve
+- Accessible: Segments can be effectively reached and served
+- Differential: Segments must respond differently to different marketing mix elements and actions
+- Actionable: Must be able to attract and serve the segments
 
 有效细分的标准
 
@@ -516,7 +516,12 @@ IDIC
 
 ### 品牌的资本作用：提升无形资产
 
+- 企业内部
+- 企业外部
+
 ### 品牌战略实施
+
+通过6步实现“中国创造”强势品牌
 
 1. 品牌评估
 2. 品牌承诺
@@ -526,6 +531,14 @@ IDIC
 6. 品牌管理
 
 ### 基于品牌价值的商业模式定义
+
+- 整体解决
+- 系统
+- 整合
+- 持续盈利
+- 高效率
+- 核心竞争力
+- 客户价值最大化
 
 ### 商业模型创新路径
 
@@ -545,8 +558,8 @@ IDIC
 ### 什么是产品的整体概念
 
 - 产品核心部分：主要功能
-- 产品形式部分
-- 产品附加价值
+- 产品形式部分：包装、品牌、品质、设计、其他功能
+- 产品附加价值：安装、送货信用、售后服务、保障
 
 ### 服务触点营销
 
@@ -560,7 +573,27 @@ IDIC
 
 ### 客户忠诚度的维护与提升
 
-(图)
+- 善待每一位顾客
+  - 企业文化建设
+  - 员工培训
+- 贴近顾客
+  - 问卷调查
+  - 小型座谈会
+  - 企业内部人员创造机会去市场实践
+  - 连续追踪调查
+- 制造转移成本
+  - 增加差异化附加值
+  - 顾客积分奖励计划
+  - 超值价位
+  - 品牌的独特文化
+- 提供物超所值的额外价值
+  - 超过客户心理预期
+- 提升心理与情感认同
+  - 广告提升消费者对品牌的熟悉感
+  - 熟悉感产生信赖感
+- 产品品质创新
+  - 产品线的诞生
+  - 功能、技术领域的开创
 
 ### 服务品牌建设
 
