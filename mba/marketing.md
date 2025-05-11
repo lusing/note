@@ -201,11 +201,11 @@ The Major Concerns of International Marketing Managers
 
 Market-Oriented Strategic Planning
 
-Objectives
-Resources
-Skills
-Opportunities
-Profit and Growth
+- Objectives
+- Resources
+- Skills
+- Opportunities
+- Profit and Growth
 
 (图1)
 
