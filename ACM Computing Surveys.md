@@ -329,6 +329,7 @@ the existing literature in an important field of study. We anticipate that it wi
 for addressing alert fatigue not just in SOCs but across other Command and Control (C2) domains as well.
 
 ### 223. Vertical Federated Learning for Effectiveness, Security, Applicability: A Survey
+
 纵向联邦学习的三维视角：有效性、安全性与适用性研究综述
 
 ### 222. Secure Robotics: Navigating Challenges at the Nexus of Safety, Trust, and Cybersecurity in Cyber-Physical Systems
@@ -338,6 +339,7 @@ for addressing alert fatigue not just in SOCs but across other Command and Contr
 AI加速器资源共享中的效率、公平性与安全性：研究综述
 
 ### 220. Machine Learning for Identifying Risk in Financial Statements: A Survey
+
 机器学习在财务报表风险识别中的应用综述
 
 The work herein reviews the scientific literature on Machine Learning approaches for financial risk assessment using financial reports. We identify two prominent use cases that constitute fundamental risk factors for a company, namely misstatement detection and financial distress prediction. We further categorize the related work along four dimensions that can help highlight the peculiarities and challenges of the domain. Specifically, we group the related work based on (a) the input features used by each method, (b) the sources providing the labels of the data, (c) the evaluation approaches used to confirm the validity of the methods, and (d) the machine learning methods themselves. This categorization facilitates a technical overview of risk detection methods, revealing common patterns, methodologies, significant challenges, and opportunities for further research in the field.
@@ -345,9 +347,11 @@ The work herein reviews the scientific literature on Machine Learning approaches
 本文回顾了利用财务报告进行财务风险评估的机器学习方法相关科学文献。我们确定了构成公司基本风险因素的两个主要用例，即财务报表错误陈述检测和财务困境预测。我们进一步从四个维度对相关研究进行分类，这些维度有助于凸显该领域的特性与挑战。具体而言，我们根据以下方面对相关工作进行分组：(a) 每种方法使用的输入特征，(b) 提供数据标签的来源，(c) 用于验证方法有效性的评估方式，以及 (d) 机器学习方法本身。这种分类有助于对风险检测方法进行技术概述，揭示该领域的常见模式、方法论、重大挑战以及进一步研究的机会。
 
 ### 219. Data Readiness for AI: A 360-Degree Survey
+
 面向人工智能的数据就绪性：多维视角综述
 
 ### 218. Towards a Better Understanding of Evaluating Trustworthiness in AI Systems
+
 人工智能系统可信度评估的深入探讨
 
 ## 2025-08
@@ -374,6 +378,7 @@ The work herein reviews the scientific literature on Machine Learning approaches
 区块链赋能的可信数据共享：基础理论、应用场景与技术挑战
 
 ### 196. A Comprehensive Survey on Big Data Analytics: Characteristics, Tools and Techniques
+
 大数据分析研究综述：核心特征、工具与技术全景解读
 
 ### 197. Making Sense of Big Data in Intelligent Transportation Systems: Current Trends, Challenges and Future Directions
@@ -561,6 +566,7 @@ Wi-Fi感知技术在人类活动识别中的应用：简要综述、潜在挑战
 密码管理器与双因素认证工具的深度分析
 
 ### Data-centric Artificial Intelligence: A Survey
+
 以数据为中心的人工智能综述
 
 ### Characterization of Android Malwares and their Families
@@ -638,6 +644,7 @@ VR 头显中的对象选择与操作：研究挑战、解决方案与成功度�
 用于城市决策的机器学习调查：在规划、交通和医疗保健中的应用
 
 ### Causal Discovery from Temporal Data: An Overview and New Perspectives
+
 从时间数据中发现因果关系：概述与新视角
 
 ### Tool Learning with Foundation Models

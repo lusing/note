@@ -10,3 +10,14 @@ Journal of Financial Economics - Elsevier
 
 ​​Information Systems Research
 Operations Research
+
+===
+
+Academy of Management Journal
+
+Academy of Management Review
+
+---
+
+Accounting, Organizations and Society
+
