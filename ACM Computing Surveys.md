@@ -1,4 +1,9 @@
 # ACM Computing Surveys
+## 2025-12
+
+### 298. Sentiment Diffusion in Online Social Networks: A Survey from the Computational Perspective
+
+在线社交网络中的情感扩散：从计算视角进行的综述
 
 ## 2025-11
 
