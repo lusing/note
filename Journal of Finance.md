@@ -1,8 +1,39 @@
 # The Journal of Finance
 
+## 2025-04
+
+### Would Order-By-Order Auctions Be Competitive?
+
+逐单拍卖是否具有竞争力？
+
+我们对两种执行隔离零售订单的方式进行了建模：一种是经纪商路由，即经纪商依据做市商的整体表现来分配订单；另一种是逐笔订单拍卖，即做市商对单个订单进行竞价 —— 这是美国证券交易委员会近期提出的一项提案。
+
+逐笔订单拍卖提高了配置效率，但会面临赢家诅咒问题，这会降低零售投资者的福利，尤其是在流动性有限的情况下。当新进入者拥有比现有批发商更优的信息时，更多市场参与者争夺零售订单，并不能提升整体效率和投资者福利。即便新进入者信息较少或信息结构不同，我们的研究结果仍然成立。此外，我们还考察了经纪商路由的交叉补贴问题。
+
+### Regulating Over-the-Counter Markets
+
+监管场外交易市场
+
+尽管面临交易所的竞争，场外（OTC）交易依旧蓬勃发展。我们在经典的 Glosten-Milgrom 框架中引入 OTC 做市商能够“撇脂”交易所订单这一设定。若限制做市商的撇脂行为，会引发“廉价替代”：部分交易者退出，而另一些潜在收益更大的交易者则入场。廉价替代意味着交易成本、交易量和市场占有率都是不佳的政策指标。在一个基准情形下，仅当交易成本上升、交易量下降且 OTC 市场份额较高时，限制做市商才能提高福利。相反，当逆向选择风险较低时，这一限制反而能改善福利。一个简单的机制即可实现最优的庇古税。
+
+### Interlocking Directorates and Competition in Banking
+
+银行交叉董事与竞争
+
+我们利用意大利立法意外禁止银行间交叉董事这一变化，研究其对企业贷款利率的影响。通过使用多重企业—银行借贷关系，以彻底控制所有不可观测的异质性，我们发现：禁止交叉董事使得此前存在交叉关系的银行贷款利率较其他银行下降14个基点。该效应在高质量借款企业以及交叉银行共同市场份额较大的贷款中更为显著。同时，受交叉关系禁令影响的贷款利率离散度上升。进一步地，与这些银行借贷比例越高的企业，其投资、就业和销售额均出现扩张。
+
+### The Value of Bank Lending
+
+银行贷款的价值
+
+利用一套全新的银团贷款实际现金流数据集，并借鉴私募股权文献中的风险调整方法，我为银行贷款现金流提供了经风险调整的收益率度量。平均而言，银行可获得180个基点的总风险调整收益，并每年为其贷款组合增值约7,500万美元。当银行向面临融资约束的借款人放贷时，其收益率更高；且银行贷款组合的风险调整后表现具有持续性。然而，当银行自身面临融资摩擦时，会要求更高的风险调整收益；剔除对放贷员工的薪酬后，股东获得的净风险调整收益几乎为零。总体而言，这些结果表明，银行通过提供有价值的服务来缓解借款人的融资摩擦，而贷款现金流的现值恰好足以覆盖提供这些服务的成本。
+
+
+
 ## 2025-02
 
 ### The Disappearing Index Effect
+
 消失的指数效应
 
 The abnormal return associated with a stock being added to the S&P 500 has fallen from an average of 7.4% in the 1990s to less than 1% over the past decade. This has occurred despite a significant increase in the share of stock market assets linked to the index. A similar pattern has occurred for index deletions, with large negative abnormal returns during the 1990s but an average return of only 0.1% between 2010 and 2020. We investigate the drivers of this phenomenon and discuss implications for market efficiency. We document a similar decline in the index effect among other families of indices.
