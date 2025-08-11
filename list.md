@@ -6,6 +6,8 @@ Journal of Risk and Uncertainty - Springer
 
 Journal of Financial Economics - Elsevier
 
+Journal of Financial and Quantitative Analysis - 剑桥
+
 ## INFORMS
 
 ​​Information Systems Research

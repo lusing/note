@@ -1,5 +1,7 @@
 # The Journal of Finance
 
+Wiley
+
 ## 2025-04
 
 ### Would Order-By-Order Auctions Be Competitive?
