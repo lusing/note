@@ -1,0 +1,2 @@
+# Journal of Consumer Psychology
+
