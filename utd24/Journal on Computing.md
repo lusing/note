@@ -1,0 +1,38 @@
+# INFORMS Journal on Computing
+
+## Vol. 37, No. 4 2025
+
+### An Efficient Node Selection Policy for Monte Carlo Tree Search with Neural Networks
+一种高效的神经网络蒙特卡罗树搜索节点选择策略
+
+Monte Carlo tree search (MCTS) has been gaining increasing popularity, and the success of AlphaGo has prompted a new trend of incorporating a value network and a policy network constructed with neural networks into MCTS, namely, NN-MCTS. In this work, motivated by the shortcomings of the widely used upper confidence bounds applied to trees (UCT) policy, we formulate the node selection problem in NN-MCTS as a multistage ranking and selection (R&S) problem and propose a node selection policy that efficiently allocates a limited search budget to maximize the probability of correctly selecting the best action at the root state. The value and policy networks in NN-MCTS further improve the performance of the proposed node selection policy by providing prior knowledge and guiding the selection of the final action, respectively. Numerical experiments on two board games and an OpenAI task demonstrate that the proposed method outperforms the UCT policy used in AlphaGo Zero and MuZero, implying the potential of constructing node selection policies in NN-MCTS with R&S procedures.
+
+蒙特卡罗树搜索（MCTS）日益受到青睐，AlphaGo 的成功也催生了将价值网络与策略网络（均由神经网络构建）融入 MCTS 的新趋势，即 NN-MCTS。本文针对广泛使用的应用于树的置信上界（UCT）策略的不足，将 NN-MCTS 中的节点选择问题表述为多阶段排序与选择（R&S）问题，并提出了一种节点选择策略，能够在有限搜索预算下最大化正确选择根节点最优动作的概率。NN-MCTS 中的价值网络和策略网络分别通过提供先验知识和指导最终动作选择，进一步提升了所提节点选择策略的性能。在两款棋盘游戏和一个 OpenAI 任务上的数值实验表明，该方法优于 AlphaGo Zero 和 MuZero 中所采用的 UCT 策略，显示出在 NN-MCTS 中基于 R&S 过程构建节点选择策略的潜力。
+
+### The Electric Vehicle Routing and Overnight Charging Scheduling Problem on a Multigraph
+多图上的电动汽车路径与夜间充电调度问题
+
+In the electric vehicle (EV) routing and overnight charging scheduling problem, a fleet of EVs must serve the demand of a set of customers with time windows. The problem consists in finding a set of minimum cost routes and determining an overnight EV charging schedule that ensures the routes’ feasibility. Because (i) travel time and energy consumption are conflicting resources, (ii) the overnight charging operations take considerable time, and (iii) the charging infrastructure at the depot is limited, we model the problem on a multigraph where each arc between two vertices represents a path with a different resource consumption trade-off. To solve the problem, we design a branch-price-and-cut algorithm that implements state-of-the-art techniques, including the ng-path relaxation, subset-row inequalities, and a specialized labeling algorithm. We report computational results showing that the method solves to optimality instances with up to 50 customers. We also present experiments evaluating the benefits of modeling the problem on a multigraph rather than on the more classical 1-graph representation.
+
+在电动汽车（EV）路径与夜间充电调度问题中，车队必须在时间窗内满足一组客户的需求。该问题要求找到一组最小成本路径，并制定夜间充电计划以确保这些路径的可行性。由于（i）旅行时间与能耗是此消彼长的资源，（ii）夜间充电操作耗时较长，且（iii）车场充电设施有限，我们将问题建模在一个多重图上：任意两顶点间的每条弧对应一条资源消耗权衡不同的路径。为求解该问题，我们设计了一个分支定价切割算法，整合了当前最先进的技巧，包括 ng-路径松弛、子集行不等式以及专门的标号算法。计算结果表明，该方法可最优求解多达 50 位客户的实例。我们还通过实验评估了在多重图上建模相比传统 1-图表示所带来的优势。
+
+### Production Planning Under Demand and Endogenous Supply Uncertainty
+需求与内生供给不确定性下的生产规划
+
+We study the problem of determining how much finished goods inventory to source from different capacitated facilities in order to maximize profits resulting from sales of such inventory. We consider a problem wherein there is uncertainty in demand for finished goods inventory and production yields at facilities. Further, we consider that uncertainty in production yields is endogenous, as it depends on both the facilities where a product is produced and the volumes produced at those facilities. We model the problem as a two stage stochastic program and propose an exact, Benders-based algorithm for solving instances of the problem. We prove the correctness of the algorithm and with an extensive computational study demonstrate that it outperforms known benchmarks. Finally, we establish the value in modeling uncertainty in both demands and production yields.
+
+我们研究如何在多个产能受限的工厂之间分配成品库存，以最大化销售利润的问题。该问题同时面临两大不确定性：成品需求的不确定性，以及各工厂生产良品率的不确定性。尤为关键的是，生产良品率的不确定性是“内生”的——它既取决于产品在哪些工厂生产，也取决于在这些工厂的生产批量。我们将该问题建模为两阶段随机规划，并提出一种基于 Benders 分解的精确算法。我们证明了算法的正确性，并通过大规模计算实验表明其显著优于现有基准方法。最后，我们量化了同时考虑需求与生产良品率不确定性所带来的建模价值。
+
+### Decision Making Under Cumulative Prospect Theory: An Alternating Direction Method of Multipliers
+基于交替方向乘子法的累积前景理论决策方法
+
+This paper proposes a novel numerical method for solving the problem of decision making under cumulative prospect theory (CPT), where the goal is to maximize utility subject to practical constraints, assuming only finite realizations of the associated distribution are available. Existing methods for CPT optimization rely on particular assumptions that may not hold in practice. To overcome this limitation, we present the first numerical method with a theoretical guarantee for solving CPT optimization using an alternating direction method of multipliers (ADMM). One of its subproblems involves optimization with the CPT utility subject to a chain constraint, which presents a significant challenge. To address this, we develop two methods for solving this subproblem. The first method uses dynamic programming, whereas the second method is a modified version of the pooling-adjacent-violators algorithm that incorporates the CPT utility function. Moreover, we prove the theoretical convergence of our proposed ADMM method and the two subproblem-solving methods. Finally, we conduct numerical experiments to validate our proposed approach and demonstrate how CPT’s parameters influence investor behavior, using real-world data.
+
+本文提出了一种求解累积前景理论（CPT）下决策问题的新型数值方法。该问题旨在仅可获得有限分布样本的前提下，最大化满足实际约束的CPT效用。现有CPT优化方法多依赖特定假设，往往难以落地。为此，我们首次给出基于交替方向乘子法（ADMM）且具备理论保证的CPT优化数值框架。其子问题之一需在链式约束下优化CPT效用，极具挑战性。对此，我们设计了两种求解途径：其一采用动态规划；其二为融合CPT效用函数的改进“相邻池化违例者”算法。此外，我们证明了所提ADMM框架及两种子问题求解方法的理论收敛性。最后，通过真实数据实验验证方法有效性，并展示CPT参数如何影响投资者行为。
+
+### Clustering Then Estimation of Spatio-Temporal Self-Exciting Processes
+时空自激励过程的“先聚类后估计”方法
+
+We propose a new estimation procedure for general spatio-temporal point processes that include a self-exciting feature. Estimating spatio-temporal self-exciting point processes with observed data is challenging, partly because of the difficulty in computing and optimizing the likelihood function. To circumvent this challenge, we employ a Poisson cluster representation for spatio-temporal self-exciting point processes to simplify the likelihood function and develop a new estimation procedure called “clustering-then-estimation” (CTE), which integrates clustering algorithms with likelihood-based estimation methods. Compared with the widely used expectation-maximization (EM) method, our approach separates the cluster structure inference of the data from the model selection. This has the benefit of reducing the risk of model misspecification. Our approach is computationally more efficient because it does not need to recursively solve optimization problems, which would be needed for EM. We also present asymptotic statistical results for our approach as theoretical support. Experimental results on several synthetic and real data sets illustrate the effectiveness of the proposed CTE procedure.
+
+针对具有自激励特征的通用时空点过程，我们提出了一种新的估计框架。由于似然函数的计算与优化困难，利用观测数据估计时空自激励点过程一直颇具挑战。为此，我们采用泊松聚类表示来简化似然，并发展出“先聚类后估计”（CTE）策略，将聚类算法与基于似然的估计有机结合。与主流的EM算法相比，CTE把数据聚类结构的推断与模型选择分离，降低了模型误设风险；同时避免了EM所需的递归优化，计算效率更高。我们还给出了CTE的渐近统计理论，并在多组仿真与真实数据上验证了其有效性。
