@@ -1,6 +1,16 @@
 # ACM Computing Surveys
 ## 2025-12
 
+### 300. A Survey of Program Analysis for Distributed Software Systems
+
+Distributed software systems are pervasive today and they are increasingly developed/deployed to meet the growing needs for scalable computing. Given their critical roles in modern information infrastructures, assuring the quality of distributed software is crucial. As a fundamental methodology for software quality assurance in general, program analysis underlies a range of techniques and tools for constructing and assuring distributed systems. Yet to this date, there remains a lack of systematical understanding of what have been done and how far we are in the field of program analysis for distributed systems. To gain a comprehensive and coherent view of this area hence inform relevant future research, this article provides a systematic literature review of the (1) technical approaches, including analysis methodology, modality, underlying representation, algorithmic design, data utilized, and scope, (2) applications, with respect to the quality aspects served, and (3) evaluation, including the datasets and metrics considered, of various program analyses in the domain of distributed software in the past 30 years (1995–2024). In addition to knowledge systematization, we also extend our insights into the limitations of and challenges faced by current technique and evaluation designs, which shed light on potentially promising future research directions.
+
+分布式软件系统如今已无处不在，为满足日益增长的规模化计算需求，其开发与部署正持续加速。鉴于其在现代信息基础设施中的关键地位，保障分布式软件的质量至关重要。作为软件质量保障的基础方法，程序分析支撑了构建与保障分布式系统的一系列技术与工具。然而，迄今为止，该领域仍缺乏对其研究进展与现状的系统梳理。为全面、连贯地把握这一方向并指导未来研究，本文对 1995–2024 年间分布式软件程序分析的相关文献进行了系统回顾，涵盖：
+- 技术方法：分析范式、执行方式、底层表示、算法设计、所用数据及分析范围；
+- 应用场景：针对的质量属性；
+- 评估手段：所用数据集与评价指标。
+除知识体系化外，我们还深入剖析了当前技术与评估设计面临的局限与挑战，并据此指出若干富有前景的未来研究方向。
+
 ### 299. A Survey of Recent Advances and Challenges in Deep Audio-Visual Correlation Learning
 深度音视关联学习：最新进展与挑战综述
 
