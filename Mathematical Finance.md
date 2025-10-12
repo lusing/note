@@ -122,3 +122,17 @@ We consider the joint SPX & VIX calibration within a general class of Gaussian p
 
 我们在一类通用的高斯多项式波动率模型中研究SPX与VIX的联合校准问题。在该类模型中，SPX的波动率被假设为关于高斯Volterra过程的多项式函数，而高斯Volterra过程本身被定义为一个核函数与布朗运动之间的随机卷积。通过对2011年至2022年期间的SPX与VIX隐含波动率曲面数据进行联合校准，我们比较了不同核函数及其相关的马尔可夫与非马尔可夫模型（例如粗糙与非粗糙的路径依赖波动率模型）的实证表现。
 为了确保高效校准并在模型间进行公平比较，我们开发了一种基于函数量化与神经网络的通用统一方法，用于在我们的模型族中快速且精确地为SPX与VIX衍生品定价。我们首次识别出一种传统的单因子马尔可夫连续随机波动率模型，该模型在对SPX与VIX隐含波动率曲面以及VIX期货期限结构进行拟合时，表现出了显著的优势。更令人惊讶的是，在各类市场条件下，我们的传统单因子马尔可夫连续随机波动率模型在相同参数数量下，均优于其粗糙与非粗糙的路径依赖对应模型。
+
+### Measure-valued processes for energy markets
+能源市场的测度值过程
+
+We introduce a framework that allows to employ (non-negative) measure-valued processes for energy market modeling, in particular for electricity and gas futures. Interpreting the process' spatial structure as time to maturity, we show how the Heath–Jarrow–Morton approach can be translated to this framework, thus guaranteeing arbitrage free modeling in infinite dimensions, while allowing for the incorporation of important stylized facts, in particular stochastic discontinuities, that is, jumps or spikes at pre-specified (deterministic) dates. We derive an analog to the HJM-drift condition and then treat in a Markovian setting existence of non-negative measure-valued diffusions that satisfy this condition. To analyze mathematically convenient classes we consider measure-valued polynomial and affine diffusions, where we can precisely specify the diffusion part in terms of continuous functions satisfying certain admissibility conditions. For calibration purposes these functions can then be parameterized by neural networks yielding measure-valued analogs of neural SPDEs. By combining Fourier approaches or the moment formula with stochastic gradient descent methods, this then allows for tractable calibration procedures which we also test by way of example on market data.
+
+我们提出一个框架，允许（非负）测度值过程用于能源市场建模，特别是电力和天然气期货。将该过程的空间结构解释为到期时间，我们展示了如何将Heath-Jarrow-Morton（HJM）方法转换到这一框架中，从而保证无限维度下的无套利建模，同时允许纳入重要的典型事实，特别是随机不连续性，即在预先指定（确定性）日期发生的跳跃或尖峰。我们推导出类似HJM漂移条件的类比，然后在马尔可夫设定下处理满足该条件的非负测度值扩散的存在性。为了分析数学上方便的类别，我们考虑测度值多项式和仿射扩散，其中我们可以用满足特定可接受性条件的连续函数精确指定扩散部分。为了校准目的，这些函数可以通过神经网络进行参数化，产生测度值神经SPDE的类比。通过将傅里叶方法或矩公式与随机梯度下降方法相结合，这允许可行的校准程序，我们也通过市场数据的例子进行了测试。
+
+### The fundamental theorem of asset pricing with and without transaction costs
+含与不含交易成本的资产定价基本定理
+
+We prove a version of the fundamental theorem of asset pricing (FTAP) in continuous time that is based on the strict no-arbitrage condition and that is applicable to both frictionless markets and markets with proportional transaction costs. We consider a market with a single risky asset whose ask price process is higher than or equal to its bid price process. Neither the concatenation property of the set of wealth processes, that is used in the proof of the frictionless FTAP, nor some boundedness property of the trading volume of admissible strategies usually argued within models with a nonvanishing bid–ask spread need to be satisfied in our model.
+
+我们证明了一个适用于连续时间情形的资产定价基本定理（FTAP）版本，该版本基于严格无套利条件，既适用于无摩擦市场，也适用于存在比例交易成本的市场。我们考虑一个包含单一风险资产的市场，其中该资产的卖价（ask）过程始终不低于其买价（bid）过程。在我们的模型中，既不需要满足无摩擦FTAP证明中所依赖的财富过程集合的拼接性质（concatenation property），也不需要满足通常在具有非零买卖价差模型中所要求的可容许策略交易量的某种有界性条件。
