@@ -136,3 +136,12 @@ We introduce a framework that allows to employ (non-negative) measure-valued pro
 We prove a version of the fundamental theorem of asset pricing (FTAP) in continuous time that is based on the strict no-arbitrage condition and that is applicable to both frictionless markets and markets with proportional transaction costs. We consider a market with a single risky asset whose ask price process is higher than or equal to its bid price process. Neither the concatenation property of the set of wealth processes, that is used in the proof of the frictionless FTAP, nor some boundedness property of the trading volume of admissible strategies usually argued within models with a nonvanishing bid–ask spread need to be satisfied in our model.
 
 我们证明了一个适用于连续时间情形的资产定价基本定理（FTAP）版本，该版本基于严格无套利条件，既适用于无摩擦市场，也适用于存在比例交易成本的市场。我们考虑一个包含单一风险资产的市场，其中该资产的卖价（ask）过程始终不低于其买价（bid）过程。在我们的模型中，既不需要满足无摩擦FTAP证明中所依赖的财富过程集合的拼接性质（concatenation property），也不需要满足通常在具有非零买卖价差模型中所要求的可容许策略交易量的某种有界性条件。
+
+## Volume35, Issue1 January 2025
+
+### Long-term risk with stochastic interest rates
+长期风险与随机利率
+
+In constant-rate markets, the average stochastic discount factor growth rate coincides with the instantaneous rate. When interest rates are stochastic, this average growth rate is given by the long-term yield of zero-coupon bonds, which cannot serve as instantaneous discount rate. We show how to reconcile the stochastic discount factor growth with the instantaneous relations between returns and rates in stochastic-rate markets. We factorize no-arbitrage prices and isolate a rate adjustment that captures the short-term variability of rates. The rate-adjusted stochastic discount factor features the same long-term growth as the stochastic discount factor in the market but has no transient component in its Hansen–Scheinkman decomposition, capturing the long-term interest rate risk. Moreover, we show how the rate adjustment can be used for managing the interest rate risk related to fixed-income derivatives and life insurances.
+
+在固定利率市场中，平均随机贴现因子增长率与瞬时利率一致。当利率是随机的，这一平均增长率由零息债券的长期收益率给出，其不能作为瞬时贴现率。我们展示了如何协调随机贴现因子增长与随机利率市场中收益和利率之间的瞬时关系。我们对无套利价格进行因式分解，分离出一个利率调整项，用以捕捉利率的短期变动性。经利率调整的随机贴现因子具有与市场中的随机贴现因子相同的长期增长特征，但在其Hansen-Scheinkman分解中不含瞬态成分，从而捕捉了长期利率风险。此外，我们还展示了如何利用该利率调整来管理与固定收入衍生品和寿险相关的利率风险。
