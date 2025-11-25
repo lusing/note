@@ -1,4 +1,90 @@
 # ACM Computing Surveys
+
+## 2026-04 
+
+### 83. Unique Security and Privacy Threats of Large Language Models: A Comprehensive Survey
+
+### 84. A Survey of Fundamental Principles and Analysis for Job Scheduling on Warehouse-Scale Computers
+
+### 85. A Survey on Spatio-Temporal Prediction: From Transformers to Foundation Models
+
+### 86. Memory Analysis for Malware Detection: A Comprehensive Survey Using the OSCAR Methodology
+
+### 87. A Systematic Literature Review of Inter-Commit Fine-Grained Source Code Changes: Assessing Readiness for Large-Scale Data Collection
+
+### 88. Common Threads in Incremental Data Flow Analysis: A Comprehensive Survey
+
+### 89. Physics-informed Machine Learning for Medical Image Analysis
+
+### 90. A Tutorial on Discriminative Clustering and Mutual Information
+
+### 91. A Survey of Quantum Machine Learning: Foundations, Algorithms, Frameworks, Data and Applications
+
+## 2026-05
+
+### 110. A Primer on Temporal Graph Learning
+时序图学习导论
+
+### 111. A Comprehensive Survey of Transformers in Text Recognition: Techniques, Challenges, and Future Directions
+Transformer在文本识别中的综合综述：技术、挑战与未来方向
+
+### 112. Representation Learning in Complex Logical Query Answering on Knowledge Graphs: A Survey
+知识图谱复杂逻辑问答中的表示学习：综述
+
+### 115. Machine Learning Systems: A Survey from a Data-Oriented Perspective
+机器学习系统：面向数据视角的综述
+
+### 116. Lost in Alignment: A Survey on Cross-Lingual Alignment Methods for Contextualized Representation
+对齐困境：情境化表征的跨语言对齐方法综述
+
+### 117. Unsupervised Deep Learning for Anomaly Detection in Automotive Trucks: A Survey
+无监督深度学习在卡车异常检测中的应用：综述
+
+### 118. Nonnegative Matrix Factorization in Dimensionality Reduction: A Survey
+降维中的非负矩阵分解：综述
+
+### 119. A Review on Self-Supervised Learning in Time Series Anomaly Detection: Recent Advances and Open Challenges
+时间序列异常检测中的自监督学习综述：近期进展与开放挑战
+
+### 120. Continual Learning of Large Language Models: A Comprehensive Survey
+大语言模型的持续学习：综合综述
+
+### 121. Deep Learning on RISC-V Platforms at the Edge: A Perspective on the Hardware and Software Support
+边缘端RISC-V平台上的深度学习：硬件与软件支持视角
+
+### 122. A Systematic Review of the Use of Augmented Reality in Pedestrian Navigation
+增强现实在行人导航中应用的系统性综述
+
+### 123. A Survey of Defenses Against AI-Generated Visual Media: Detection, Disruption, and Authentication
+AI生成视觉媒体防御技术综述：检测、干扰与认证
+
+### 125. A Survey on Faults and Vulnerabilities in Network Topological Connectivity: Logical and Physical Perspectives
+网络拓扑连接中的故障与漏洞综述：逻辑与物理视角
+
+### 126. A Survey on Proactive Deepfake Defense: Disruption and Watermarking
+主动式深度伪造防御综述：干扰与水印技术
+
+### 127. Deep Learning Representations of Programs: A Systematic Literature Review
+程序表示的深度学习：系统性文献综述
+
+### 128. A Survey on Privacy-Preserving Computing in the Automotive Domain
+汽车领域隐私保护计算技术综述
+
+### 129. Workload Shifting Techniques: From Digital Inebriation to Sobriety
+工作负载转移技术：从数字过载到理性调控
+
+### 130. Structure-Based Drug Design with Geometric Deep Learning: A Comprehensive Survey
+
+### 131. Navigating Posit Arithmetic: A Comprehensive Survey of Principles, Hardware, and Applications
+
+### 132. AI Alignment: A Contemporary Survey
+
+### 133. Learning-based Human Relighting: A Survey
+
+### 134. LLMs in Software Security: A Survey of Vulnerability Detection Techniques and Insights
+
+### 135. A Survey on Stereotype Detection in Natural Language Processing
+
 ## 2025-12
 
 ### 300. A Survey of Program Analysis for Distributed Software Systems
